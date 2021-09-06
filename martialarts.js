@@ -8,7 +8,7 @@ img.src = src;
 };
 
 let imagePath = (frameNumber,animation) => {
-    return"animation/images/" + animation +"/" + frameNumber + ".png";
+    return"https://github.com/ShreeHarshAttri/animation/tree/main/images/" + animation +"/" + frameNumber + ".png";
     //return'images/backward/1.png';
 };
 
