@@ -8,7 +8,7 @@ img.src = src;
 };
 
 let imagePath = (frameNumber,animation) => {
-    return"images/" + animation +"/" + frameNumber + ".png";
+    return"./images/" + animation +"/" + frameNumber + ".png";
     //return'images/backward/1.png';
 };
 
